@@ -20,8 +20,7 @@ h1{
 
 }
 .half-width img{
-    width: 80%;
-
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
@@ -35,16 +34,31 @@ h1{
     text-align: center;
 
 }
-.mission-gooals{
-    border: white;
-
-
-}
-
 .my-mission{
     text-align: center;
 
 }
-.my-mission img{
-    width: 20px 20px;
+.top-header-border{
+    border-left:10px solid orangered;
+    border-radius: 3px;
+    padding: none ;
+
+}
+.gools-control{
+    background-color: olive ;
+    border-radius: 15px;
+    margin-right: 6px;
+    margin-lift: 6px;
+}
+.vission-control{
+    background-color: palegoldenrod;
+    border-radius: 15px;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+.mission-control{
+    background-color: orchid;
+    border-radius: 15px;
+    margin-right: 6px;
+    margin-left: 6%; 
 }
