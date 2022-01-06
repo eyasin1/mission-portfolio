@@ -10,8 +10,9 @@ h1{
     font-family: 'Poppins', sans-serif;
 }
 
-section{
+.flaxible-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -33,4 +34,17 @@ section{
 .second-hadding{
     text-align: center;
 
+}
+.mission-gooals{
+    border: white;
+
+
+}
+
+.my-mission{
+    text-align: center;
+
+}
+.my-mission img{
+    width: 20px 20px;
 }
